@@ -1,3 +1,7 @@
+# enviroments y pruebas
+.env
+test.php
+
 .DS_Store
 
 # Archivos de sistema
